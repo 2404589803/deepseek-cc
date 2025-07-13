@@ -146,7 +146,7 @@ console.log(completion.choices[0].message.content);
 
 ## 许可证
 
-本项目基于 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+本项目基于 Apache License 2.0 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
 ## 贡献
 
